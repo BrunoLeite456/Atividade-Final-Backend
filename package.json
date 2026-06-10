@@ -1,0 +1,26 @@
+{
+  "name": "atividade-final-backend",
+  "version": "1.0.0",
+  "description": "Ultima atividade da atividade de BackEnd.",
+  "homepage": "https://github.com/BrunoLeite456/Atividade-Final-Backend#readme",
+  "bugs": {
+    "url": "https://github.com/BrunoLeite456/Atividade-Final-Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoLeite456/Atividade-Final-Backend.git"
+  },
+  "license": "ISC",
+  "author": "Bruno",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mysql2": "^3.22.5",
+    "sequelize": "^6.37.8"
+  }
+}
